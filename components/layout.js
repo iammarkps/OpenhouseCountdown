@@ -128,7 +128,7 @@ export default ({ children }) => (
       `}
     </style>
     <Head>
-      <title>Triamudom Open House</title>
+      <title>Triam Udom Open House</title>
       <meta property="og:url" content="https://openhouse.triamudom.ac.th/" />
       <meta property="og:title" content="Triamudom Open House 2019" />
       <meta
@@ -143,14 +143,14 @@ export default ({ children }) => (
     <div className="container">
       <div className="introduction">{children}</div>
       <div className="footer">
-        <div className="left">Triamudom Open House 2019</div>
+        <div className="left">Triam Udom Open House 2019</div>
         <div className="right">
           <a
             href="http://www.triamudom.ac.th/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Triamudom
+            Triam Udom
           </a>
           <a
             href="https://www.facebook.com/TriamUdomOPH/"
