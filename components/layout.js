@@ -130,7 +130,7 @@ export default ({ children }) => (
     <Head>
       <title>Triam Udom Open House</title>
       <meta property="og:url" content="https://openhouse.triamudom.ac.th/" />
-      <meta property="og:title" content="Triamudom Open House 2019" />
+      <meta property="og:title" content="Triam Udom Open House 2019" />
       <meta
         property="og:description"
         content="นิทรรศการวิชาการ โรงเรียนเตรียมอุดมศึกษา ประจำปี 2019"
