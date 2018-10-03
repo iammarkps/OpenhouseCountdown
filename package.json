@@ -14,6 +14,10 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "export": "next export"
+    "export": "next export",
+    "format": "prettier --no-semi --write '**/*.js'"
+  },
+  "devDependencies": {
+    "prettier": "1.14.3"
   }
 }
