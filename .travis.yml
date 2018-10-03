@@ -7,3 +7,4 @@ cache:
 script:
   - yarn format
   - yarn build
+  - yarn export
