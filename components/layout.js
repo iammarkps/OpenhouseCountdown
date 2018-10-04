@@ -143,7 +143,9 @@ export default ({ children }) => (
     <div className="container">
       <div className="introduction">{children}</div>
       <div className="footer">
-        <div className="left">Triam Udom Open House 2019</div>
+        <div className="left">
+          <p>Triam Udom Open House 2019</p>
+        </div>
         <div className="right">
           <a
             href="http://www.triamudom.ac.th/"

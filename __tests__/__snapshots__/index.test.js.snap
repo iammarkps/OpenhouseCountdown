@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot App render 1`] = `
+<div
+  className="jsx-3937719320"
+>
+  <div
+    className="jsx-3937719320 container"
+  >
+    <div
+      className="jsx-3937719320 introduction"
+    >
+      <span>
+        98
+        :
+        00
+        :
+        15
+        :
+        34
+      </span>
+    </div>
+    <div
+      className="jsx-3937719320 footer"
+    >
+      <div
+        className="jsx-3937719320 left"
+      >
+        <p
+          className="jsx-3937719320"
+        >
+          Triam Udom Open House 2019
+        </p>
+      </div>
+      <div
+        className="jsx-3937719320 right"
+      >
+        <a
+          className="jsx-3937719320"
+          href="http://www.triamudom.ac.th/"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Triam Udom
+        </a>
+        <a
+          className="jsx-3937719320"
+          href="https://www.facebook.com/TriamUdomOPH/"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Facebook
+        </a>
+        <a
+          className="jsx-3937719320"
+          href="https://www.facebook.com/triamudomclubs/"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          TUCMC
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
