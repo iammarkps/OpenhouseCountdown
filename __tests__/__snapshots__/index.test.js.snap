@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Snapshot App render 1`] = `
+exports[`Snapshot App match snapshot 1`] = `
 <div
   className="jsx-3937719320"
 >
@@ -15,9 +15,9 @@ exports[`Snapshot App render 1`] = `
         :
         00
         :
-        15
+        03
         :
-        34
+        38
       </span>
     </div>
     <div
