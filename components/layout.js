@@ -139,6 +139,10 @@ export default ({ children }) => (
         property="og:image"
         content="https://openhouse.triamudom.ac.th/assets/og.png"
       />
+      <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+      />
     </Head>
     <div className="container">
       <div className="introduction">{children}</div>
